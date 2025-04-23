@@ -1,0 +1,50 @@
+*{
+margin: 0;
+box-sizing: border-box;
+}
+@font-face {
+    font-family: minecraft;
+    src: url(../fontes/Minecrafter.Alt.ttf);
+}
+h1{
+    border: solid;
+text-align: center;
+font-size: 80px;
+font-family: minecraft;
+letter-spacing: 5px;
+color: #00AA00;
+-webkit-text-stroke-width: 1px ;
+-webkit-text-stroke-color:black ;
+background-color: #964b00;
+border-top: 23px solid #00AA00;
+}
+div{
+border: solid;
+color: #00AA00;
+}
+div#personagem1{
+background-image:url(../imagens/paisagem\ porco.jpg) ;
+background-size: cover;
+color: #FF55FF;
+-webkit-text-stroke-width: 1px;
+-webkit-text-stroke-color: gray;
+}
+div#personagem2{
+    background-image:url(../imagens/paisagem\ zumbi.webp) ;
+    background-size: cover;
+    color: #00AA00;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: #153F15;
+}
+h2{
+text-align: center;
+font-size: 40px;
+font-family: minecraft;
+letter-spacing: 5px;
+
+}
+img{
+display: block;
+height: 40%;
+width: 30%;
+}
