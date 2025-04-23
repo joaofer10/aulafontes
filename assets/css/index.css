@@ -32,7 +32,7 @@ color: #FF55FF;
 div#personagem2{
     background-image:url(../imagens/paisagem\ zumbi.webp) ;
     background-size: cover;
-    color: #00AA00;
+    color: darkred;
     -webkit-text-stroke-width: 1px;
     -webkit-text-stroke-color: #153F15;
 }
